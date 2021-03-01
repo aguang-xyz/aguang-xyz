@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I' Grey Wang.
+I'm Grey Wang.
 
 👨🏻‍💻  Enjoys computer programming since 13 years old. Has two years of full-time work experience focusing on software development. Now studying for a master degree in [Auckland University](https://www.auckland.ac.nz/).
 
